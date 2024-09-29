@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fkulle.github.io/GNw/sitemap.GNw.gz
